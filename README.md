@@ -6,3 +6,5 @@ Git is free software.
 # test
 - feature-A
 - fix-B
+
+- feature-C
