@@ -8,3 +8,4 @@ Git is free software.
 - fix-B
 
 - feature-C
+- feature-D
